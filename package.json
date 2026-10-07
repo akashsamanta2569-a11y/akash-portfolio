@@ -1,0 +1,12 @@
+{
+  "name": "akash-samanta-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recruiter-focused portfolio for Akash Samanta",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "check": "node --check src/main.js && node --check src/data/profile.js"
+  }
+}
