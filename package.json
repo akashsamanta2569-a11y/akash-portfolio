@@ -5,7 +5,7 @@
   "description": "Recruiter-focused portfolio for Akash Samanta",
   "scripts": {
     "dev": "node server.mjs",
-    "start": "node server.mjs",
+    "serve": "node server.mjs",
     "build": "node build.mjs",
     "check": "node --check src/main.js && node --check src/data/profile.js"
   }
